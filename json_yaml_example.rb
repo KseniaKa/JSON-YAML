@@ -1,6 +1,6 @@
 require 'json'
 require 'set'
-require 'yaml
+require 'yaml'
 
 
 class Set
